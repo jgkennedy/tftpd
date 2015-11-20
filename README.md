@@ -16,4 +16,4 @@ Some constants may be changed:
 ## Known Issues
 * Files are transfered in-place. A fix could be to prepend a dot to the filename until the transfer is complete in order to hide the file from the user. 
 * The server serves files out of the current directory. This could be configurable.
-
+* There are no tests.
